@@ -1,0 +1,11 @@
+torch
+requests
+pymupdf
+olefile
+chromadb
+beautifulsoup4
+python-docx
+sentence-transformers
+gradio>=4.0.0
+groq>=0.5.0
+httpx
